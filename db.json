@@ -1,0 +1,8 @@
+{
+    "movies": [
+        { "id": 1, "title":"Fast and furious 6", "price":100 },
+        { "id": 2, "title":"The mummy returns", "price":50},
+        { "id": 3, "title":"Jumanji: Welcome to the jungle", "price":70},
+        { "id": 4, "title":"Rampage", "price":40}
+    ]
+}
