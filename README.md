@@ -31,6 +31,15 @@ Projektet är genomfört som en del av kursen Frontend 2.
    git clone https://github.com/EliasAlattar/MovieSeatBooking-.git
    ```
 
+## Live-version (GitHub Pages)
+
+Projektet är publicerat via GitHub Pages:
+
+https://eliasalattar.github.io/MovieSeatBooking-/
+
+Observera att API (JSON Server) endast fungerar vid lokal utveckling.
+På GitHub Pages körs den statiska versionen av applikationen.
+
 ## Loggbok
 
 ### Dag 1 – Genomgång och planering
